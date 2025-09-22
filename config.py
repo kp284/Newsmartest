@@ -7,11 +7,11 @@ It's recommended to use environment variables for production.
 """
 
 # TODO: Replace "YOUR_BOT_TOKEN_HERE" with your actual bot token
-BOT_TOKEN = "8320194297:AAEPoJK8BhrIsuece6xfK6dWNr3kPQBJ1m4"
+BOT_TOKEN = "7247516860:AAHuQTtndmvfh5R7A2mmKekGCI8gNkSYAQE"
 
 # TODO: Replace with the Telegram user IDs of the bot administrators
-ADMIN_IDS = [8009876932, 987654321] 
+ADMIN_IDS = [7507183871, 987654321] 
 
 # TODO: Replace with your own username (without the @) for the "Contact Admin" button
-OWNER_USERNAME = "Rcringe12"
+OWNER_USERNAME = "patelkrish_99"
 
