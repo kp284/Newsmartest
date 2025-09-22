@@ -13,5 +13,5 @@ BOT_TOKEN = "8320194297:AAEPoJK8BhrIsuece6xfK6dWNr3kPQBJ1m4"
 ADMIN_IDS = [8009876932, 987654321] 
 
 # TODO: Replace with your own username (without the @) for the "Contact Admin" button
-OWNER_USERNAME = "Rcringe12"
+OWNER_USERNAME = "patelkrish_99"
 
